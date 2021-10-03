@@ -1,0 +1,97 @@
+.header {
+  display: flex;
+  color: white;
+  height: 70px;
+  align-items: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.headerBackground {
+  background-color: rgba(0, 25, 76);
+}
+
+.hs {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.headerButton {
+  padding-left: 20px;
+}
+
+.headerDivider {
+  padding-left: 120px;
+  padding-right: 40px;
+}
+
+.notifiHead {
+  font-size: 19px;
+  font-weight: 700;
+
+}
+
+.notifiContainer {
+  background-color:rgb(65, 150, 164);
+  color: white;
+  padding: 20px;
+  margin-bottom: 12px;
+  margin-top: 6px;
+
+}
+
+.newsHead {
+  color:blue;
+
+}
+
+.otsikko {
+  font-size: 24px;
+  font-weight: 700;
+
+}
+
+.ebin {
+  width: 50%;
+  float: left;
+  background-color: white;
+}
+
+.movethatshit {
+  width: 30%;
+  position: absolute;
+  left: 832px;
+  top: 350px;
+  background-color: white;
+  padding: 20px;
+}
+
+.luetuimmat {
+  font-size: 19px;
+  font-weight: 700;
+  padding-bottom: 20px;
+  border-bottom-style: solid;
+  
+}
+
+.sidetext {
+  padding-top: 20px;
+}
+
+.number {
+  font-size: 30px;
+  font-weight: bold;
+  color: #4196a4;
+}
+
+.sidestart {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+html {
+  background-color:rgb(241, 236, 236);
+}
+
